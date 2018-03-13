@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'tmo';
+    src: url("Take Me On.otf") format('otf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Abril Fatface Regular';
+    src: url("./AbrilFatface-Regular.otf");
+}
+
+.hello {
+    color: red;
+    background: url("./telegram.svg");
+    font-family: 'tmo';
+    font-size: 100px;
+}
